@@ -10,6 +10,6 @@
     make
 
 ## How to use
-実行するだけです。先ほど作ったdataには数値がfigureにはdeta情報から作られた図が保存されると思います。
+実行するだけです。先ほど作ったdataには数値がfigureにはdata情報から作られた図が保存されると思います。
 
     ./Particle

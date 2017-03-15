@@ -185,7 +185,7 @@ main (int argc, char **argv)
   }
 
   char* output_data = (char*)"../data/output.dat";
-  char* output_figure = (char*)"../figure/figure%i.png"
+  char* output_figure = (char*)"../figure/result.png";
 
   FILE *gp = popen("gnuplot -persist", "w");; // For gnuplot
   if (gp == NULL){
