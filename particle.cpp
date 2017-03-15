@@ -41,7 +41,7 @@ main (int argc, char **argv)
   MatrixXd y1   = MatrixXd::Zero(1,N);           // 観測値1
   MatrixXd y2   = MatrixXd::Zero(1,N);           // 観測値2
   MatrixXd phat = MatrixXd::Zero(1,N);           // パーティクルによる推定値
-  MatrixXd d    = MatrixXd::Zero(1,N);           // 差分評価
+  MatrixXd d    = MatrixXd::Zero(1,M);           // 差分評価
   MatrixXd weight_power = MatrixXd::Zero(1,N);   // リサンプリングするかどうか閾値に使う
 
   // パーティクル行列
@@ -99,10 +99,10 @@ main (int argc, char **argv)
       pout << d(0,i) << endl;
     }
 
-    /*
-    cout << "Sampling" << endl;
-    cout << p << endl;
-    */
+    
+    //cout << "Sampling" << endl;
+    //cout << p << endl;
+    
 
     // 尤度の計算 
     for(int i=0;i<M;i++){
