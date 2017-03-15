@@ -2,7 +2,6 @@
 ## Installation
 始めにgit cloneしてbuildまでしましょう。
 
-    mkdir KAKENHI_particle_filter && cd build
     git clone https://github.com/taka1103xyz/KAKENHI_particle_filter.git
     mkdir data figure build
     cd build
