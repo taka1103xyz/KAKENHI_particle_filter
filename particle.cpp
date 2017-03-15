@@ -180,8 +180,6 @@ main (int argc, char **argv)
     //fprintf(gp, "set out \"%s\" \n", p_figure);
     //fprintf(gp, "replot\n");
     pclose(gp);
-
-    cout << "finish" << endl;
   }
 
   char* output_data = (char*)"../data/output.dat";
@@ -191,7 +189,7 @@ main (int argc, char **argv)
   if (gp == NULL){
     return -1;
   }
-
+  cout << "finish" << endl;
   
   //---Gnuplotのコマンドを実行---
   
@@ -203,7 +201,6 @@ main (int argc, char **argv)
   //fprintf(gp, "replot \"%s\" using 1:4 title 'y2' with linespoints \n", output);  // 観測
   fprintf(gp, "replot \"%s\" using 1:5 title 'phat' with linespoints \n", output_data);   // パーティクル推定
   fprintf(gp, "set terminal png\n");
-  fprintf(gp, "replot\n");
   fprintf(gp, "set out \"%s\" \n", output_figure);
   fprintf(gp, "replot\n");
   pclose(gp);
