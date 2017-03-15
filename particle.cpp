@@ -3,8 +3,8 @@
 #include <iostream>
 #include <stdio.h>
 #include <random>
-#include </home/fujimoto/eigen-eigen-67e894c6cd8f/Eigen/Core>
-#include </home/fujimoto/eigen-eigen-67e894c6cd8f/Eigen/Geometry>
+#include <Eigen/Core>
+#include <Eigen/Geometry>
 
 using namespace std;
 using namespace Eigen;
