@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Particle" targetName="Particle" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba36a3ca-dca8-4802-ac74-a629e049d9c7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure1.png" afterPath="$PROJECT_DIR$/figure/figure1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure10.png" afterPath="$PROJECT_DIR$/figure/figure10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure11.png" afterPath="$PROJECT_DIR$/figure/figure11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure12.png" afterPath="$PROJECT_DIR$/figure/figure12.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure13.png" afterPath="$PROJECT_DIR$/figure/figure13.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure14.png" afterPath="$PROJECT_DIR$/figure/figure14.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure15.png" afterPath="$PROJECT_DIR$/figure/figure15.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure16.png" afterPath="$PROJECT_DIR$/figure/figure16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure17.png" afterPath="$PROJECT_DIR$/figure/figure17.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure18.png" afterPath="$PROJECT_DIR$/figure/figure18.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure19.png" afterPath="$PROJECT_DIR$/figure/figure19.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure2.png" afterPath="$PROJECT_DIR$/figure/figure2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure20.png" afterPath="$PROJECT_DIR$/figure/figure20.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure21.png" afterPath="$PROJECT_DIR$/figure/figure21.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure22.png" afterPath="$PROJECT_DIR$/figure/figure22.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure23.png" afterPath="$PROJECT_DIR$/figure/figure23.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure24.png" afterPath="$PROJECT_DIR$/figure/figure24.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure25.png" afterPath="$PROJECT_DIR$/figure/figure25.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure26.png" afterPath="$PROJECT_DIR$/figure/figure26.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure27.png" afterPath="$PROJECT_DIR$/figure/figure27.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure28.png" afterPath="$PROJECT_DIR$/figure/figure28.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure29.png" afterPath="$PROJECT_DIR$/figure/figure29.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure3.png" afterPath="$PROJECT_DIR$/figure/figure3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure30.png" afterPath="$PROJECT_DIR$/figure/figure30.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure31.png" afterPath="$PROJECT_DIR$/figure/figure31.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure32.png" afterPath="$PROJECT_DIR$/figure/figure32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure33.png" afterPath="$PROJECT_DIR$/figure/figure33.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure34.png" afterPath="$PROJECT_DIR$/figure/figure34.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure35.png" afterPath="$PROJECT_DIR$/figure/figure35.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure36.png" afterPath="$PROJECT_DIR$/figure/figure36.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure37.png" afterPath="$PROJECT_DIR$/figure/figure37.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure38.png" afterPath="$PROJECT_DIR$/figure/figure38.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure39.png" afterPath="$PROJECT_DIR$/figure/figure39.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure4.png" afterPath="$PROJECT_DIR$/figure/figure4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure40.png" afterPath="$PROJECT_DIR$/figure/figure40.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure41.png" afterPath="$PROJECT_DIR$/figure/figure41.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure42.png" afterPath="$PROJECT_DIR$/figure/figure42.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure43.png" afterPath="$PROJECT_DIR$/figure/figure43.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure44.png" afterPath="$PROJECT_DIR$/figure/figure44.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure45.png" afterPath="$PROJECT_DIR$/figure/figure45.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure46.png" afterPath="$PROJECT_DIR$/figure/figure46.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure47.png" afterPath="$PROJECT_DIR$/figure/figure47.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure48.png" afterPath="$PROJECT_DIR$/figure/figure48.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure49.png" afterPath="$PROJECT_DIR$/figure/figure49.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure5.png" afterPath="$PROJECT_DIR$/figure/figure5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure50.png" afterPath="$PROJECT_DIR$/figure/figure50.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure51.png" afterPath="$PROJECT_DIR$/figure/figure51.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure52.png" afterPath="$PROJECT_DIR$/figure/figure52.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure53.png" afterPath="$PROJECT_DIR$/figure/figure53.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure54.png" afterPath="$PROJECT_DIR$/figure/figure54.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure55.png" afterPath="$PROJECT_DIR$/figure/figure55.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure56.png" afterPath="$PROJECT_DIR$/figure/figure56.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure57.png" afterPath="$PROJECT_DIR$/figure/figure57.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure58.png" afterPath="$PROJECT_DIR$/figure/figure58.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure59.png" afterPath="$PROJECT_DIR$/figure/figure59.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure6.png" afterPath="$PROJECT_DIR$/figure/figure6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure60.png" afterPath="$PROJECT_DIR$/figure/figure60.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure61.png" afterPath="$PROJECT_DIR$/figure/figure61.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure62.png" afterPath="$PROJECT_DIR$/figure/figure62.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure63.png" afterPath="$PROJECT_DIR$/figure/figure63.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure64.png" afterPath="$PROJECT_DIR$/figure/figure64.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure65.png" afterPath="$PROJECT_DIR$/figure/figure65.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure66.png" afterPath="$PROJECT_DIR$/figure/figure66.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure67.png" afterPath="$PROJECT_DIR$/figure/figure67.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure68.png" afterPath="$PROJECT_DIR$/figure/figure68.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure69.png" afterPath="$PROJECT_DIR$/figure/figure69.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure7.png" afterPath="$PROJECT_DIR$/figure/figure7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure70.png" afterPath="$PROJECT_DIR$/figure/figure70.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure71.png" afterPath="$PROJECT_DIR$/figure/figure71.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure72.png" afterPath="$PROJECT_DIR$/figure/figure72.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure73.png" afterPath="$PROJECT_DIR$/figure/figure73.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure74.png" afterPath="$PROJECT_DIR$/figure/figure74.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure75.png" afterPath="$PROJECT_DIR$/figure/figure75.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure76.png" afterPath="$PROJECT_DIR$/figure/figure76.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure77.png" afterPath="$PROJECT_DIR$/figure/figure77.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure78.png" afterPath="$PROJECT_DIR$/figure/figure78.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure79.png" afterPath="$PROJECT_DIR$/figure/figure79.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure8.png" afterPath="$PROJECT_DIR$/figure/figure8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure80.png" afterPath="$PROJECT_DIR$/figure/figure80.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure81.png" afterPath="$PROJECT_DIR$/figure/figure81.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure82.png" afterPath="$PROJECT_DIR$/figure/figure82.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure83.png" afterPath="$PROJECT_DIR$/figure/figure83.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure84.png" afterPath="$PROJECT_DIR$/figure/figure84.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure85.png" afterPath="$PROJECT_DIR$/figure/figure85.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure86.png" afterPath="$PROJECT_DIR$/figure/figure86.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure87.png" afterPath="$PROJECT_DIR$/figure/figure87.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure88.png" afterPath="$PROJECT_DIR$/figure/figure88.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure89.png" afterPath="$PROJECT_DIR$/figure/figure89.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure9.png" afterPath="$PROJECT_DIR$/figure/figure9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure90.png" afterPath="$PROJECT_DIR$/figure/figure90.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure91.png" afterPath="$PROJECT_DIR$/figure/figure91.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure92.png" afterPath="$PROJECT_DIR$/figure/figure92.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure93.png" afterPath="$PROJECT_DIR$/figure/figure93.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure94.png" afterPath="$PROJECT_DIR$/figure/figure94.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure95.png" afterPath="$PROJECT_DIR$/figure/figure95.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure96.png" afterPath="$PROJECT_DIR$/figure/figure96.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure97.png" afterPath="$PROJECT_DIR$/figure/figure97.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure98.png" afterPath="$PROJECT_DIR$/figure/figure98.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/figure99.png" afterPath="$PROJECT_DIR$/figure/figure99.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figure/result.png" afterPath="$PROJECT_DIR$/figure/result.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/d_mean.dat" afterPath="$PROJECT_DIR$/data/d_mean.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/output.dat" afterPath="$PROJECT_DIR$/data/output.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle1.dat" afterPath="$PROJECT_DIR$/data/particle1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle10.dat" afterPath="$PROJECT_DIR$/data/particle10.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle11.dat" afterPath="$PROJECT_DIR$/data/particle11.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle12.dat" afterPath="$PROJECT_DIR$/data/particle12.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle13.dat" afterPath="$PROJECT_DIR$/data/particle13.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle14.dat" afterPath="$PROJECT_DIR$/data/particle14.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle15.dat" afterPath="$PROJECT_DIR$/data/particle15.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle16.dat" afterPath="$PROJECT_DIR$/data/particle16.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle17.dat" afterPath="$PROJECT_DIR$/data/particle17.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle18.dat" afterPath="$PROJECT_DIR$/data/particle18.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle19.dat" afterPath="$PROJECT_DIR$/data/particle19.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle2.dat" afterPath="$PROJECT_DIR$/data/particle2.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle20.dat" afterPath="$PROJECT_DIR$/data/particle20.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle21.dat" afterPath="$PROJECT_DIR$/data/particle21.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle22.dat" afterPath="$PROJECT_DIR$/data/particle22.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle23.dat" afterPath="$PROJECT_DIR$/data/particle23.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle24.dat" afterPath="$PROJECT_DIR$/data/particle24.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle25.dat" afterPath="$PROJECT_DIR$/data/particle25.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle26.dat" afterPath="$PROJECT_DIR$/data/particle26.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle27.dat" afterPath="$PROJECT_DIR$/data/particle27.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle28.dat" afterPath="$PROJECT_DIR$/data/particle28.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle29.dat" afterPath="$PROJECT_DIR$/data/particle29.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle3.dat" afterPath="$PROJECT_DIR$/data/particle3.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle30.dat" afterPath="$PROJECT_DIR$/data/particle30.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle31.dat" afterPath="$PROJECT_DIR$/data/particle31.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle32.dat" afterPath="$PROJECT_DIR$/data/particle32.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle33.dat" afterPath="$PROJECT_DIR$/data/particle33.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle34.dat" afterPath="$PROJECT_DIR$/data/particle34.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle35.dat" afterPath="$PROJECT_DIR$/data/particle35.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle36.dat" afterPath="$PROJECT_DIR$/data/particle36.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle37.dat" afterPath="$PROJECT_DIR$/data/particle37.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle38.dat" afterPath="$PROJECT_DIR$/data/particle38.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle39.dat" afterPath="$PROJECT_DIR$/data/particle39.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle4.dat" afterPath="$PROJECT_DIR$/data/particle4.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle40.dat" afterPath="$PROJECT_DIR$/data/particle40.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle41.dat" afterPath="$PROJECT_DIR$/data/particle41.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle42.dat" afterPath="$PROJECT_DIR$/data/particle42.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle43.dat" afterPath="$PROJECT_DIR$/data/particle43.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle44.dat" afterPath="$PROJECT_DIR$/data/particle44.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle45.dat" afterPath="$PROJECT_DIR$/data/particle45.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle46.dat" afterPath="$PROJECT_DIR$/data/particle46.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle47.dat" afterPath="$PROJECT_DIR$/data/particle47.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle48.dat" afterPath="$PROJECT_DIR$/data/particle48.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle49.dat" afterPath="$PROJECT_DIR$/data/particle49.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle5.dat" afterPath="$PROJECT_DIR$/data/particle5.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle50.dat" afterPath="$PROJECT_DIR$/data/particle50.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle51.dat" afterPath="$PROJECT_DIR$/data/particle51.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle52.dat" afterPath="$PROJECT_DIR$/data/particle52.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle53.dat" afterPath="$PROJECT_DIR$/data/particle53.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle54.dat" afterPath="$PROJECT_DIR$/data/particle54.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle55.dat" afterPath="$PROJECT_DIR$/data/particle55.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle56.dat" afterPath="$PROJECT_DIR$/data/particle56.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle57.dat" afterPath="$PROJECT_DIR$/data/particle57.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle58.dat" afterPath="$PROJECT_DIR$/data/particle58.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle59.dat" afterPath="$PROJECT_DIR$/data/particle59.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle6.dat" afterPath="$PROJECT_DIR$/data/particle6.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle60.dat" afterPath="$PROJECT_DIR$/data/particle60.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle61.dat" afterPath="$PROJECT_DIR$/data/particle61.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle62.dat" afterPath="$PROJECT_DIR$/data/particle62.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle63.dat" afterPath="$PROJECT_DIR$/data/particle63.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle64.dat" afterPath="$PROJECT_DIR$/data/particle64.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle65.dat" afterPath="$PROJECT_DIR$/data/particle65.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle66.dat" afterPath="$PROJECT_DIR$/data/particle66.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle67.dat" afterPath="$PROJECT_DIR$/data/particle67.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle68.dat" afterPath="$PROJECT_DIR$/data/particle68.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle69.dat" afterPath="$PROJECT_DIR$/data/particle69.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle7.dat" afterPath="$PROJECT_DIR$/data/particle7.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle70.dat" afterPath="$PROJECT_DIR$/data/particle70.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle71.dat" afterPath="$PROJECT_DIR$/data/particle71.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle72.dat" afterPath="$PROJECT_DIR$/data/particle72.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle73.dat" afterPath="$PROJECT_DIR$/data/particle73.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle74.dat" afterPath="$PROJECT_DIR$/data/particle74.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle75.dat" afterPath="$PROJECT_DIR$/data/particle75.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle76.dat" afterPath="$PROJECT_DIR$/data/particle76.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle77.dat" afterPath="$PROJECT_DIR$/data/particle77.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle78.dat" afterPath="$PROJECT_DIR$/data/particle78.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle79.dat" afterPath="$PROJECT_DIR$/data/particle79.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle8.dat" afterPath="$PROJECT_DIR$/data/particle8.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle80.dat" afterPath="$PROJECT_DIR$/data/particle80.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle81.dat" afterPath="$PROJECT_DIR$/data/particle81.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle82.dat" afterPath="$PROJECT_DIR$/data/particle82.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle83.dat" afterPath="$PROJECT_DIR$/data/particle83.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle84.dat" afterPath="$PROJECT_DIR$/data/particle84.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle85.dat" afterPath="$PROJECT_DIR$/data/particle85.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle86.dat" afterPath="$PROJECT_DIR$/data/particle86.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle87.dat" afterPath="$PROJECT_DIR$/data/particle87.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle88.dat" afterPath="$PROJECT_DIR$/data/particle88.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle89.dat" afterPath="$PROJECT_DIR$/data/particle89.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle9.dat" afterPath="$PROJECT_DIR$/data/particle9.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle90.dat" afterPath="$PROJECT_DIR$/data/particle90.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle91.dat" afterPath="$PROJECT_DIR$/data/particle91.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle92.dat" afterPath="$PROJECT_DIR$/data/particle92.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle93.dat" afterPath="$PROJECT_DIR$/data/particle93.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle94.dat" afterPath="$PROJECT_DIR$/data/particle94.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle95.dat" afterPath="$PROJECT_DIR$/data/particle95.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle96.dat" afterPath="$PROJECT_DIR$/data/particle96.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle97.dat" afterPath="$PROJECT_DIR$/data/particle97.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle98.dat" afterPath="$PROJECT_DIR$/data/particle98.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/particle99.dat" afterPath="$PROJECT_DIR$/data/particle99.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/particle.cpp" afterPath="$PROJECT_DIR$/particle.cpp" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="particle.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/particle.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="181" column="44" lean-forward="false" selection-start-line="181" selection-start-column="36" selection-end-line="181" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+                <element signature="e#78#95#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plot.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../plot/plot.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="666">
+              <caret line="37" column="57" lean-forward="false" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tit</find>
+      <find>d_mean(0,k)</find>
+      <find>ratio</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/particle.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1345" />
+    <option name="y" value="24" />
+    <option name="width" value="1173" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Particle" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KAKENHI_particle_filter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Particle">
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Particle" TARGET_NAME="Particle" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Particle" TARGET_NAME="Particle" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="KAKENHI_particle_filter" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="KAKENHI_particle_filter" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="KAKENHI_particle_filter" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="KAKENHI_particle_filter" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="KAKENHI_particle_filter" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="KAKENHI_particle_filter" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="KAKENHI_particle_filter" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Particle" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Particle" TARGET_NAME="Particle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Particle" RUN_TARGET_NAME="Particle">
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Particle" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba36a3ca-dca8-4802-ac74-a629e049d9c7" name="Default" comment="" />
+      <created>1490243172167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490243172167</updated>
+      <workItem from="1490243174107" duration="389000" />
+      <workItem from="1490244616721" duration="1392000" />
+      <workItem from="1490269658891" duration="8386000" />
+      <workItem from="1490434653909" duration="617000" />
+      <workItem from="1490664408902" duration="11692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22476000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1345" y="24" width="1173" height="1056" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14151748" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/particle.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#78#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../plot/plot.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="57" lean-forward="false" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/particle.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#78#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../plot/plot.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="57" lean-forward="false" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/particle.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#78#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/particle.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#78#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../plot/plot.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="57" lean-forward="false" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/particle.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="181" column="44" lean-forward="false" selection-start-line="181" selection-start-column="36" selection-end-line="181" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#78#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
