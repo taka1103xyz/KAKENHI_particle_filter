@@ -25,9 +25,9 @@ main (int argc, char **argv)
     int Q = 2;                      // システムノイズ
     int R = 2;                      // 観測ノイズ
     // int dt = 1;                  // 時間間隔
-    int M = 1000;                    // パーティクル数
-    int N = 50;                    // 計測数
-    double sigma = 0.05;            // パーティクルフィルタのパラメータ
+    int M = 200;                    // パーティクル数
+    int N = 200;                    // 計測数
+    double sigma = sqrt(0.05);            // パーティクルフィルタのパラメータ σ^2
     double ESS = 0;                 // リサンプリング閾値
     double ratio = 0;                  // dの値が0に近い粒子がいくつあるか検証（比率がわかる）
 
@@ -93,8 +93,9 @@ main (int argc, char **argv)
         //y1(0,k) = c * x(0,k) + sqrt(R)*norm(mt);    // 観測値更新
 
             // 故障データ（周期ごとに同じ値を得る）
+        /*
         if(k > 25){
-            if(k % 4 == 0) {
+            if(k % 5 == 0) {
                 y1(0, k) = x(0,25);
             }else{
                 y1(0,k) = c * x(0,k) + sqrt(R)*norm(mt);    // 観測値更新
@@ -102,7 +103,7 @@ main (int argc, char **argv)
         } else{
             y1(0,k) = c * x(0,k) + sqrt(R)*norm(mt);    // 観測値更新
         }
-
+        */
             // 故障データ(ある時刻で同じ値を得る)
         /*
         if(k > 25){
@@ -112,13 +113,13 @@ main (int argc, char **argv)
         }
         */
             // 故障データ（事前にセットしていたシステムとは異なる値（バイアス、大きな分散）が得られた場合）
-        /*
+
         if(k > 25){
-            y1(0,k) = c * x(0,k) + sqrt(6)*norm(mt);
+            y1(0,k) = c * x(0,k) + sqrt(30)*norm(mt);
         } else{
             y1(0,k) = c * x(0,k) + sqrt(R)*norm(mt);    // 観測値更新
         }
-         */
+
         // y2(0,k) = c * x(0,k) + sqrt(R)*norm_bias(mt);    // 観測値更新
         // cout << "Update" << endl;
         cout << "x(" << k << ") is " << x(0,k) << endl;
@@ -182,7 +183,7 @@ main (int argc, char **argv)
         cout << "Dispersion is " << weight_power.sum()/M << endl;
         cout << "ESS = " << ESS << endl;
 
-        if(k % 4 == 0){
+        if(0 == 0){
             MatrixXd p_bar = MatrixXd::Zero(1,M);
             for(int i=0;i<M;i++){
                 double sample = score(mt);
@@ -219,7 +220,7 @@ main (int argc, char **argv)
         fprintf(gp, "bin(x,width)=width*floor(x/width)+width/2.0\n");
         fprintf(gp, "set terminal png\n");
         fprintf(gp, "set output \"%s\" \n", p_figure);
-        fprintf(gp, "plot [-5:5] [0:25] \"%s\" using (bin($1,binwidth)):(1.0) smooth freq with boxes\n", p_data);
+        fprintf(gp, "plot [-5:5] [0:140] \"%s\" using (bin($1,binwidth)):(1.0) smooth freq with boxes\n", p_data);
         //fprintf(gp, "set terminal png\n");
         //fprintf(gp, "set out \"%s\" \n", p_figure);
         //fprintf(gp, "replot\n");
@@ -228,7 +229,8 @@ main (int argc, char **argv)
         //---Gnuplotのコマンドを実行---
     char* output_data = (char*)"../data/output.dat";
     char* output_d = (char*)"../data/d_mean.dat";
-    char* output_figure = (char*)"../figure/result.png";
+    char* output_figure_d = (char*)"../figure/result.png";
+    char* output_figure_a = (char*)"../figure/analysis.png";
 
         // 結果データ
     FILE *gp = popen("gnuplot -persist", "w");; // For gnuplot
@@ -241,12 +243,12 @@ main (int argc, char **argv)
     fprintf(gp, "set xlabel \"t\"\n");
     fprintf(gp, "set ylabel \"x\"\n");
     fprintf(gp, "set title 'Result data'\n");
-    fprintf(gp, "plot \"%s\" using 1:2 title 'x' with linespoints \n", output_data);     // システム
-    fprintf(gp, "replot \"%s\" using 1:3 title 'y1' with linespoints \n", output_data);  // 観測
+    fprintf(gp, "plot \"%s\" using 1:2 title 'x' with lines \n", output_data);     // システム
+    fprintf(gp, "replot \"%s\" using 1:3 title 'y1' with lines \n", output_data);  // 観測
     //fprintf(gp, "replot \"%s\" using 1:4 title 'y2' with linespoints \n", output);  // 観測
-    fprintf(gp, "replot \"%s\" using 1:5 title 'phat' with linespoints \n", output_data);   // パーティクル推定
+    fprintf(gp, "replot \"%s\" using 1:5 title 'phat' with lines \n", output_data);   // パーティクル推定
     fprintf(gp, "set terminal png\n");
-    fprintf(gp, "set out \"%s\" \n", output_figure);
+    fprintf(gp, "set out \"%s\" \n", output_figure_d);
     fprintf(gp, "replot\n");
     pclose(gp);
 
@@ -262,6 +264,8 @@ main (int argc, char **argv)
     fprintf(dp, "plot [0:\"%i\"] [-5:5] \"%s\" using 1:2 title 'mean' with linespoints \n",N , output_d);   // 平均
     fprintf(gp, "replot \"%s\" using 1:3 title 'ratio(*10)' with linespoints \n", output_d);   // パーティクル推定
     fprintf(gp, "replot \"%s\" using 1:4 title 'dispersion(*10)' with linespoints \n", output_d);   // パーティクル推定
+    fprintf(gp, "set terminal png\n");
+    fprintf(gp, "set out \"%s\" \n", output_figure_a);
     fprintf(dp, "replot\n");
     pclose(dp);
 
